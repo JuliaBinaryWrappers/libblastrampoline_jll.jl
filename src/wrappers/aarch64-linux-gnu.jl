@@ -13,8 +13,8 @@ function __init__()
 
     JLLWrappers.@generate_init_footer()
     @static if VERSION < v"1.7.0-DEV.641"
-        ccall((:lbt_forward, libblastrampoline), Int32, (Cstring, Int32, Int32),
-              Libdl.dlpath(Base.libblas_name) , 1, 0)
+        ccall((:lbt_forward, libblastrampoline), Int32, (Cstring, Int32, Int32, Ptr{Cvoid}),
+              Libdl.dlpath(Base.libblas_name), 1, 0, C_NULL)
     end
 
 end  # __init__()
