@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libblastrampoline,
-        "lib/libblastrampoline.5.10.1.dylib",
+        "lib/libblastrampoline.5.11.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
