@@ -92,11 +92,11 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.1+1/libblastrampoline.v5.11.1.i686-linux-musl.tar.gz"
 [[libblastrampoline]]
 arch = "i686"
-git-tree-sha1 = "b9216b068f5400ebf90fd96e18b7561bce79e366"
+git-tree-sha1 = "ea488bfb713762cac2518bdad83e36c0d9cc4ae1"
 os = "windows"
 
     [[libblastrampoline.download]]
-    sha256 = "4cfbe80febb477c3aa2f47152e5a7fa5dcd6475f2a85b82744e60948c8026a16"
+    sha256 = "180a352a09739f1e1dc20c0d08fa191afa5222953dd5af33cf850157b23d64e0"
     url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.1+1/libblastrampoline.v5.11.1.i686-w64-mingw32.tar.gz"
 [[libblastrampoline]]
 arch = "powerpc64le"
