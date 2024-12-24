@@ -1,161 +1,170 @@
 [[libblastrampoline]]
 arch = "aarch64"
-git-tree-sha1 = "6cd694a29ec7f1c81cb3967573ea1e82d2da812c"
+git-tree-sha1 = "de23c1c13a4dcf98b05181e1aacd2361c34f2c7f"
 os = "macos"
 
     [[libblastrampoline.download]]
-    sha256 = "70eec21b2550b3c80188085e10e026f84e7767535894a907b469ee21ac2a6c6b"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "7c92daab98720a60e0e043b32878fc244361f7219fc2f5fbc68aba077c21f9e4"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.aarch64-apple-darwin.tar.gz"
 [[libblastrampoline]]
 arch = "aarch64"
-git-tree-sha1 = "329c411afce1f23ab9462911dff3e91875bf3ce4"
+git-tree-sha1 = "afdef6a70519fca41cc5f48a0d033361864f3777"
 libc = "glibc"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "44eb2f84e8cdfe56ff48289ee7abfa4510d2da55706644ef5c3c229d7a143850"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "fd5a6826c1c47c88fd48331997b91e0aebb7f5753ee475c7521cae9beedfa780"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.aarch64-linux-gnu.tar.gz"
 [[libblastrampoline]]
 arch = "aarch64"
-git-tree-sha1 = "00620c4eb92ebc36392fdab9957f7ee45aab5c57"
+git-tree-sha1 = "a35c5e5f9487935473ac285d5b2d833b202327b7"
 libc = "musl"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "0b96e206c13e57217e3e04c054e4436e3ba6c9ccb6c774d2c30417d0eda58ad4"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.aarch64-linux-musl.tar.gz"
+    sha256 = "d8d69e1ea2e647dfc3e8955c5ef871effb6ba26ce77ad0c5e336e5f2b3c1c572"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.aarch64-linux-musl.tar.gz"
 [[libblastrampoline]]
 arch = "aarch64"
-git-tree-sha1 = "3109e3c3e4f95b302b8d5894eeae18f28abb5bd3"
+git-tree-sha1 = "efb6919c224c06a3848b16a331f2172c0c0fcc73"
 os = "freebsd"
 
     [[libblastrampoline.download]]
-    sha256 = "1d2293a96eadca7771750fb3e333e54bab7db1dd4cb5dd6469dfd7a8162d5820"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "f83688c074fd58ab07b57ada753ee3bb61161a1bc972c8ed7da6bbb8034a3392"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.aarch64-unknown-freebsd.tar.gz"
 [[libblastrampoline]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "00ff95f0a57df188a9b56d29187a4daa6e6b5784"
+git-tree-sha1 = "c308138739503ef2ffa54b948256426e106ef19a"
 libc = "glibc"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "04d3bbecb6ef17f05f18f36091b87fac9f4254bea16163f80a8cc89e642d7593"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "65c4d57ea81432aec46a9aa953138321c1207d3cb868f84047502df33a2e9b16"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.armv6l-linux-gnueabihf.tar.gz"
 [[libblastrampoline]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "92a3dca8a6df26c8a549d2cd3717887e61c398a1"
+git-tree-sha1 = "219e1fda7a3f6002b9c199e4c1ecb2b1a7ba3415"
 libc = "musl"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "1a6f81ec1b6917b270ce9484b6dd4c5309e0b8dd30a64787ff150215dc17e3ef"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "3a9ddc10538ade88f33eaed3efb0ffd5f7a03a2972f065f5ce6505b0901083b8"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.armv6l-linux-musleabihf.tar.gz"
 [[libblastrampoline]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "73f7bb901fdff5b4e7c05924057742977c643eaf"
+git-tree-sha1 = "baed63c71a47dc8ce4838492d5ac524c603db7d0"
 libc = "glibc"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "fefaf91e694ee26ef92b37a1d6757ced29b70f5c695bfb976518e6f36bf2203d"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "cb4e3e5fdb0040c8f3e1d7d1dc826577af0a227b1c71b69b38e00bc8341716a2"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.armv7l-linux-gnueabihf.tar.gz"
 [[libblastrampoline]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2b08a1368fd630ebce24a0b3cfad5f11185a938d"
+git-tree-sha1 = "2c7650070cbbb932d16c08f4e89b9cae227be9ae"
 libc = "musl"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "19c84ec980439f1d8c4694d795dde5a9eb1a1589447dfc012754a130a5b14458"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "55dceb36a13c631e5a6896cf3dc59120bfb7f3f5e24a6b7181b8809fad12264d"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.armv7l-linux-musleabihf.tar.gz"
 [[libblastrampoline]]
 arch = "i686"
-git-tree-sha1 = "861a04b712c180c98a58b080f596274972b743ae"
+git-tree-sha1 = "295687c9a17ad4497ec5cecbd60c84b6d821ef00"
 libc = "glibc"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "7c7264164d19e7a40f9147ad337f18bd36f8fd0a6e38cc8fde68229d1731d199"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.i686-linux-gnu.tar.gz"
+    sha256 = "f47f4cd8611f765bb53f47c03e6e496b62ea67b38b7ad1ff1f384ee7eb24f1ea"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.i686-linux-gnu.tar.gz"
 [[libblastrampoline]]
 arch = "i686"
-git-tree-sha1 = "457ce03c6232fcd05c86c5b35872038fb435f9fc"
+git-tree-sha1 = "048e2ea53eb883b4d024d3e36bbb4dbf12529e99"
 libc = "musl"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "7af0f312663b3db12f2920552eede50b43694597b20973bf0c189384835eac44"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.i686-linux-musl.tar.gz"
+    sha256 = "542a0047645eada370d887dd83a695f443eb675b592d24faa41b9e8671b8d49a"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.i686-linux-musl.tar.gz"
 [[libblastrampoline]]
 arch = "i686"
-git-tree-sha1 = "21b591c6f08e1b0df3b40dc020e2a3b856e24173"
+git-tree-sha1 = "53c7eaa66a74e94078e0fcd0c79fa49271267cb6"
 os = "windows"
 
     [[libblastrampoline.download]]
-    sha256 = "e74e6d62298550e0524291f7d6bdf09e67452500e71d67d52461867c6d3a2ed2"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.i686-w64-mingw32.tar.gz"
+    sha256 = "3af8d62c070a8ba09770d2131cf2f3dc52bae582d8279d28fa99a40af1b8ef23"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.i686-w64-mingw32.tar.gz"
 [[libblastrampoline]]
 arch = "powerpc64le"
-git-tree-sha1 = "73131e0aaeedb231cbf3a87a232d96e8a768129f"
+git-tree-sha1 = "cc412d219c85a42d9d36121ea0c64ec0a218c5c3"
 libc = "glibc"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "b4edb6130f2cba194d64da2117d555a32ae9681b7836102e6123c80a45c02bd6"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "8ef2fe0093e9ffd0b293c5523140055b3e309dd25f3aea3cbeb640793ddf224f"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.powerpc64le-linux-gnu.tar.gz"
+[[libblastrampoline]]
+arch = "riscv64"
+git-tree-sha1 = "19f8c947a5cdf37c1f8a2695f9edccfe4123d304"
+libc = "glibc"
+os = "linux"
+
+    [[libblastrampoline.download]]
+    sha256 = "7320887477197eecc5afd47055dba92171381dea6f4d8486dc7f517d682c32ac"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.riscv64-linux-gnu.tar.gz"
 [[libblastrampoline]]
 arch = "x86_64"
-git-tree-sha1 = "ec963e0a41202d9b84955c3ebe66c4c7616d6c0a"
+git-tree-sha1 = "f8e7517aa669582b3bca5d9150708b9ffc2b0add"
 os = "macos"
 
     [[libblastrampoline.download]]
-    sha256 = "14a64c5e46fef681d49fc87b2297dfb736a02dc1115ad39dc0e7c2aecb784823"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "62858bf4ba809d59d58c64dededc917008f9b45aa30fc2ca4a9885124c8896a9"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.x86_64-apple-darwin.tar.gz"
 [[libblastrampoline]]
 arch = "x86_64"
-git-tree-sha1 = "7cc55052c48a9200447a28b8e34236c24e84200a"
+git-tree-sha1 = "e8862d7d87e3bd509dc925546ded6c1e91d361f9"
 libc = "glibc"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "0a31b871aafa13a547983f69d1b014fb3fa44a8a5f111bc4848436bff10c11af"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "a6eaf5b93017bc1c4115a01a9ceff7f35b4e466cc61373f9ed422c12a1b1d1f1"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.x86_64-linux-gnu.tar.gz"
 [[libblastrampoline]]
 arch = "x86_64"
-git-tree-sha1 = "bd5b229d8509123f9661e258c139a2645daf7131"
+git-tree-sha1 = "9979245aee17edf9218ae3d06ae9998cff991899"
 libc = "glibc"
 os = "linux"
 sanitize = "memory"
 
     [[libblastrampoline.download]]
-    sha256 = "10504b19f30b29cadece694d81a4a65e40dbad4fcabdec0e46075241f419f9d3"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.x86_64-linux-gnu-sanitize+memory.tar.gz"
+    sha256 = "62d1a3db4b6b6cb18f1ac180d47451c983cede803bf4717f7385676456daec07"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
 [[libblastrampoline]]
 arch = "x86_64"
-git-tree-sha1 = "1a12462b46a110b921d8437ecbd1c6c210072852"
+git-tree-sha1 = "222f4a352da32693ac04386534d5726cb1355c20"
 libc = "musl"
 os = "linux"
 
     [[libblastrampoline.download]]
-    sha256 = "8f0962468e67ff3986d88b8e59b337cfb6ff4dafe181d7c78a7f44059fb865b4"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.x86_64-linux-musl.tar.gz"
+    sha256 = "5b51dfa863532a06233030edbe7c468d871ff518761b4d54a15889dd695199c4"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.x86_64-linux-musl.tar.gz"
 [[libblastrampoline]]
 arch = "x86_64"
-git-tree-sha1 = "3ab4dd5d73f74ba61433b9bfc6aba4244313866e"
+git-tree-sha1 = "182f7a9d6cd9e396cba45fcc34735758861c60cf"
 os = "freebsd"
 
     [[libblastrampoline.download]]
-    sha256 = "8d95cb3fbeac91597b56ba96776089355604e2683eef9933004508c67258f790"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6c4f3078c2e19707a4f0d54ac60759532ec3ef6281ce62f03295836864786965"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.x86_64-unknown-freebsd.tar.gz"
 [[libblastrampoline]]
 arch = "x86_64"
-git-tree-sha1 = "2d97955d11931a0c203b7e3c70ff67daf004cfc2"
+git-tree-sha1 = "ab3139f5084084934f880f388ec7a794f1b5e839"
 os = "windows"
 
     [[libblastrampoline.download]]
-    sha256 = "1f59cdc1a03f27fe09f0578e7d769aba4c57239d98f3bc51f5b0a753061b588c"
-    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.11.2+0/libblastrampoline.v5.11.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b90302c5f2f3ff5fbae2a514e3e2578fb735081815edd134104ff9580384f8bf"
+    url = "https://github.com/JuliaBinaryWrappers/libblastrampoline_jll.jl/releases/download/libblastrampoline-v5.4.0+2/libblastrampoline.v5.4.0.x86_64-w64-mingw32.tar.gz"
